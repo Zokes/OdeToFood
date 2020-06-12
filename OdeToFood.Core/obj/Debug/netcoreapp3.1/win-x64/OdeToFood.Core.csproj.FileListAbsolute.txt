@@ -1,0 +1,12 @@
+C:\Gitrepo\OdeToFood.Core\bin\Debug\netcoreapp3.1\win-x64\OdeToFood.Core.deps.json
+C:\Gitrepo\OdeToFood.Core\bin\Debug\netcoreapp3.1\win-x64\OdeToFood.Core.runtimeconfig.json
+C:\Gitrepo\OdeToFood.Core\bin\Debug\netcoreapp3.1\win-x64\OdeToFood.Core.runtimeconfig.dev.json
+C:\Gitrepo\OdeToFood.Core\bin\Debug\netcoreapp3.1\win-x64\OdeToFood.Core.dll
+C:\Gitrepo\OdeToFood.Core\bin\Debug\netcoreapp3.1\win-x64\OdeToFood.Core.pdb
+C:\Gitrepo\OdeToFood.Core\obj\Debug\netcoreapp3.1\win-x64\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Gitrepo\OdeToFood.Core\obj\Debug\netcoreapp3.1\win-x64\OdeToFood.Core.AssemblyInfo.cs
+C:\Gitrepo\OdeToFood.Core\obj\Debug\netcoreapp3.1\win-x64\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Gitrepo\OdeToFood.Core\obj\Debug\netcoreapp3.1\win-x64\OdeToFood.Core.dll
+C:\Gitrepo\OdeToFood.Core\obj\Debug\netcoreapp3.1\win-x64\OdeToFood.Core.pdb
+C:\Gitrepo\OdeToFood.Core\obj\Debug\netcoreapp3.1\win-x64\OdeToFood.Core.genruntimeconfig.cache
+C:\Gitrepo\OdeToFood.Core\obj\Debug\netcoreapp3.1\win-x64\OdeToFood.Core.csprojAssemblyReference.cache
